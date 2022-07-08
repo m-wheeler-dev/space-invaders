@@ -1,0 +1,36 @@
+<style>
+    body {
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    div {
+        position: relative;
+    }
+
+    p {
+        position: absolute;
+        z-index: 100;
+        color: white;
+        font-weight: bold;
+        margin-left: 1rem;
+        font-family: sans-serif;
+    }
+</style>
+
+<div>
+    <p>
+        <span>Score:</span><span id="scoreEl"> 0</span>
+            <br><br>
+        <span>Move Left: A</span>
+            <br><br>
+        <span>Move Right: D</span>
+            <br><br>
+        <span>Fire: Space</span>
+</p>
+<canvas></canvas>
+</div>
+
+<script src="app.js"></script>
