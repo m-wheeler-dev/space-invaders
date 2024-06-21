@@ -1,6 +1,8 @@
 <h1>Space Invaders!</h1>
 <h2>Built with Vanilla JavaScript</h2>
 
+<img width="500" alt="Screenshot 2023-12-19 at 8 40 22 PM" src="https://github.com/m-wheeler-dev/space-invaders/assets/105622101/3e6884ef-ca4a-4510-b106-ef88aa3595cb">
+
 <h3>Directions:</h3>
 <ul>
 <li>Move Left: "A" key</li>
@@ -9,8 +11,6 @@
 <li>+100pts for each invader stopped</li>
 <li>Player loses upon being hit once</li>
 </ul>
-
-<img width="500" alt="Screenshot 2023-12-19 at 8 40 22 PM" src="https://github.com/m-wheeler-dev/space-invaders/assets/105622101/3e6884ef-ca4a-4510-b106-ef88aa3595cb">
 
 <p>Building games like this is an excellent way to practice your dev skills.</p>
 
